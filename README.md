@@ -1,8 +1,7 @@
 <h2 align="left">Hi 👋! My name is Isaiah and I'm from Switzerland, Lausanne.</h2>
 
-Hey! 
 I'm an 18-year-old programmer who joined 42 Lausanne in September.
-I'm super excited about coding and always eager to learn something new.
+Super excited about coding and always eager to learn something new.
 
 ###
 
