@@ -35,3 +35,10 @@ Super excited about coding and always eager to learn something new.
 <p align="left">Segmentation fault (core dumped)</p>
 
 ###
+
+🗣️ Languages
+
+    English
+    French
+
+###
