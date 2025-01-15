@@ -38,7 +38,7 @@ Super excited about coding and always eager to learn something new.
 
 🗣️ Languages
 
-    English
-    French
+  - English
+  - French
 
 ###
