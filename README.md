@@ -1,39 +1,31 @@
-<h2 align="left">Hi 👋! My name is Isaiah and I'm from Switzerland, Lausanne.</h2>
+# 💫 About Me:
+🔭 I’m currently working on Minishell 🐚<br>🤝 I want to learn cybersecurity 🔐<br>🌱 I’m learning C 💻<br>⚡ Student at 42 Lausanne 🎓
 
-I'm an 18-year-old programmer who joined 42 Lausanne in September.
-Super excited about coding and always eager to learn something new.
 
-###
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robinsonisaiah011@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IsaiahRobinsonGit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IsaiahRobinsonGit&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahRobinsonGit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IsaiahRobinsonGit&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<img align="right" height="145" src="https://cdn.discordapp.com/attachments/1020978584241831936/1107506559325585548/bounce.gif?ex=67828b1c&is=6781399c&hm=97eec66b6db6dc28b202dd2c40c79e795620ff938b8bf114eaa1fe883b675000&"  />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IsaiahRobinsonGit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=IsaiahRobinsonGit&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<p align="left">Segmentation fault (core dumped)</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/robinsonisaiah) 
 
-###
-
-🗣️ Languages
-
-  - English
-  - French
-
-###
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
