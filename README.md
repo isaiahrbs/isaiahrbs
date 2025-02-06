@@ -2,11 +2,6 @@
 🔭 I’m currently working on Minishell 🐚<br>🤝 I want to learn cybersecurity 🔐<br>🌱 I’m learning C 💻<br>⚡ Student at 42 Lausanne 🎓
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robinsonisaiah011@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IsaiahRobinsonGit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IsaiahRobinsonGit&theme=transparent&hide_border=false)<br/>
