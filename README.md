@@ -1,6 +1,9 @@
 ### 42 School Projects
 
 ## 🏢 About myself
+# Hello, I'm Isaiah, an 18-year-old student at 42 Lausanne. 😺
+Current project:
+# Minishell
 <div align="center" style="display: flex;">
     <!-- Box for 42 Projects with Image -->
     <a href="https://github.com/IsaiahRobinsonGit/42-Projects/tree/main" style="text-decoration: none; width: 330px; height: 180px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
