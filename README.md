@@ -1,43 +1,25 @@
 ### 42 School Projects
-<div align="center">
 
-<a href="https://github.com/IsaiahRobinsonGit/libft">![42 Badge]("enter_badge_url")</a>
-<a href="https://github.com/IsaiahRobinsonGit/Get-Next-Line">![42 Badge]("enter_badge_url")</a>
-<a href="https://github.com/IsaiahRobinsonGit/ft_printf">![42 Badge]("enter_badge_url")</a>
-<a href="https://github.com/IsaiahRobinsonGit/so_long">![42 Badge]("enter_badge_url")</a>
-<a href="https://github.com/IsaiahRobinsonGit/Minitalk">![42 Badge]("enter_badge_url")</a>
-<a href="https://github.com/IsaiahRobinsonGit/Push_Swap">![42 Badge]("enter_badge_url")</a>
-
-<!-- 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirtn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containersn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_servicesn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webservn.png)</a>
-
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
--->
-</div>
-
-## 🏢 My Organizations
+## 🏢 About myself
 <div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons">
-        <img src="./assets/hackathons.png" width=330 height=180/>
+    <!-- Box for 42 Projects with Image -->
+    <a href="https://github.com/IsaiahRobinsonGit/42-Projects/tree/main" style="text-decoration: none; width: 330px; height: 180px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
+        <img src="https://via.placeholder.com/330x180.png?text=All+My+42+Projects" width="330" height="180" style="border-radius: 10px;" />
     </a>
-    <a href="https://github.com/DIMFLIX-Designs">
-        <img src="./assets/designs.png" width=330 height=180/>
+    <!-- Box for Custom Projects -->
+    <a href="add link here" style="text-decoration: none; width: 330px; height: 180px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
+        <img src="https://via.placeholder.com/330x180.png?text=Custom+Projects" width="330" height="180" style="border-radius: 10px;" />
     </a>
 </div>
 <br/>
 <div align="center" style="display: flex;">
-    <a href="https://github.com/meowrch">
-        <img src="./assets/meowrch.png" width=330 height=180/>
+    <!-- Box for Socials -->
+    <a href="add link here" style="text-decoration: none; width: 330px; height: 180px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
+        <img src="https://via.placeholder.com/330x180.png?text=Socials" width="330" height="180" style="border-radius: 10px;" />
     </a>
-    <a href="https://github.com/Aiogram-Templates">
-        <img src="./assets/telegram-bots.png" width=330 height=180/>
+    <!-- Box for Diplomas -->
+    <a href="add link here" style="text-decoration: none; width: 330px; height: 180px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
+        <img src="https://via.placeholder.com/330x180.png?text=Diplomas" width="330" height="180" style="border-radius: 10px;" />
     </a>
 </div>
 
@@ -47,6 +29,5 @@
 	<div align="center">
 	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahRobinsonGit&layout=compact&theme=transparent"/>
 	    <img src="https://github-readme-stats.vercel.app/api?username=IsaiahRobinsonGit&show_icons=true&theme=transparent"/>
-	    <img alt="IsaiahRobinsonGit's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=IsaiahRobinsonGit&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
