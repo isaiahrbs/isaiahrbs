@@ -27,7 +27,10 @@
 <summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=IsaiahRobinsonGit&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
     <img alt="IsaiahRobinsonGit Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=IsaiahRobinsonGit&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 	<div align="center">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahRobinsonGit&layout=compact&theme=transparent"/>
-	    <img src="https://github-readme-stats.vercel.app/api?username=IsaiahRobinsonGit&show_icons=true&theme=transparent"/>
+	    <img src="https://github-readme-stats.vercel.app/api?username=IsaiahRobinsonGit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
+	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaiahRobinsonGit&theme=transparent&hide_border=false"/>
+	    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=IsaiahRobinsonGit&theme=transparent&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahRobinsonGit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)"/>
+	    <img src="https://github-contributor-stats.vercel.app/api?username=IsaiahRobinsonGit&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 	</div>
 </details>
+
