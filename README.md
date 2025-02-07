@@ -5,7 +5,7 @@
 # Languages
 🇬🇧 English
 🇫🇷 French
-🇨🇳 learning.
+🇨🇳 Chinese[learning]
 
 Current project:
 # Minishell
