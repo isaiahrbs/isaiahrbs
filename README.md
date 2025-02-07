@@ -2,6 +2,11 @@
 
 ## 🏢 About myself
 # Hello, I'm Isaiah, an 18-year-old student at 42 Lausanne. 😺
+# Languages
+🇬🇧 English
+🇫🇷 French
+🇨🇳 learning.
+
 Current project:
 # Minishell
 <div align="center" style="display: flex;">
