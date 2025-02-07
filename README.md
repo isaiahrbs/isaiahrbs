@@ -10,7 +10,7 @@ Current project:
         <img src="https://github.com/IsaiahRobinsonGit/images/blob/main/42%20Projects..jpg" width="330" height="180" style="border-radius: 10px;" />
     </a>
     <!-- Box for Custom Projects -->
-    <a href="add link here" style="text-decoration: none; width: 330px; height: 180px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
+    <a href="https://github.com/IsaiahRobinsonGit/Isaiah-Projects" style="text-decoration: none; width: 330px; height: 180px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
         <img src="https://github.com/IsaiahRobinsonGit/images/blob/main/MyProjects.jpg" width="330" height="180" style="border-radius: 10px;" />
     </a>
 </div>
