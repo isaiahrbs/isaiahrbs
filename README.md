@@ -34,7 +34,7 @@
 <br/><br/> <!-- Adds extra space to separate sections -->
 
 <details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=IsaiahRobinsonGit&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+<summary><h3>📊 Statistics ✅</summary>
     <div align="center">
         <!-- Most Used Languages -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahRobinsonGit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
