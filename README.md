@@ -1,8 +1,7 @@
 ### 42 School Projects
-# Hello! 😺
+# Hello! 
 ## 🏢 About myself
 ### 42 Lausanne student
-### i love cats 🐾🐈‍⬛
 ## 🌎 Languages
 🇬🇧 English
 🇫🇷 French
