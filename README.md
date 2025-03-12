@@ -5,7 +5,6 @@
 ## 🌎 Languages
 🇬🇧 English
 🇫🇷 French
-🇨🇳 Chinese[learning]
 
 ## Current project: Minishell
 <div align="center" style="display: flex;">
