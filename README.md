@@ -2,7 +2,7 @@
 
 ### 42 Lausanne student
 
-## 💼 Skills & Knowledge
+## 💼 Skills
 - C
 - Python
 - Lua
