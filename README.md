@@ -11,7 +11,7 @@
 🇬🇧 English  
 🇫🇷 French  
 
-## Current project: Minishell
+## 💻 Working on: Minishell
 
 <div align="center" style="display: flex;">
     <!-- Box for 42 Projects with Image -->
