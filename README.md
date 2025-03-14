@@ -1,12 +1,18 @@
-### 42 School Projects
-# Hello! 
-## 🏢 About myself
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Isaiah&fontAlign=80&fontAlignY=40&color=gradient&colors=#9b00ff,#00ff00)
+
 ### 42 Lausanne student
+
+## 💼 Skills & Knowledge
+- C
+- Python
+- Lua
+
 ## 🌎 Languages
-🇬🇧 English
-🇫🇷 French
+🇬🇧 English  
+🇫🇷 French  
 
 ## Current project: Minishell
+
 <div align="center" style="display: flex;">
     <!-- Box for 42 Projects with Image -->
     <a href="https://github.com/IsaiahRobinsonGit/42-Projects/tree/main" style="text-decoration: none; width: 330px; height: 186px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
@@ -31,7 +37,7 @@
 <br/><br/> <!-- Adds extra space to separate sections -->
 
 <details open>
-<summary><h3>📊 Statistics ✅</summary>
+<summary><h3>📊 GitHub Stats</h3></summary>
     <div align="center">
         <!-- Most Used Languages -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahrbs&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
