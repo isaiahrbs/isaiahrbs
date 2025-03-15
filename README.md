@@ -37,7 +37,7 @@
 <br/><br/> <!-- Adds extra space to separate sections -->
 
 <details open>
-<summary><h3>📊 GitHub Stats</h3></summary>
+<summary><h3>📊 Github Stats ✅</summary>
     <div align="center">
         <!-- Most Used Languages -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahrbs&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
