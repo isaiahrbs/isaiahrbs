@@ -36,7 +36,7 @@
 
 <br/><br/> <!-- Adds extra space to separate sections -->
 
-<details open>
+<details closed>
 <summary><h3>📊 Github Stats ✅</summary>
     <div align="center">
         <!-- Most Used Languages -->
