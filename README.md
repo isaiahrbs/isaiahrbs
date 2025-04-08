@@ -6,6 +6,7 @@
 - C
 - Python
 - Lua
+- Bash
 
 ## 🌎 Languages
 🇬🇧 English  
