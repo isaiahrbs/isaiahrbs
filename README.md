@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Isaiah&fontAlign=80&fontAlignY=40&color=gradient&colors=#9b00ff,#00ff00)
 
 ### 👋 About Me  
-I'm a programming student currently studying at **42 Lausanne**.  🇨🇭
+I'm a 19-year-old programming student currently studying at **42 Lausanne**.  🇨🇭
 
 ### 📚 What I'm Learning  
 Through my studies, I've been diving into **C** and **C++**. I'm passionate about low-level development and love exploring new programming concepts and tools. I primarily work in **Windows** and **Linux**, with some experience in **MacOS**.  
