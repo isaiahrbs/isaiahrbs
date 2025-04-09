@@ -11,6 +11,7 @@
 ## 🌎 Languages
 🇬🇧 English  
 🇫🇷 French  
+🇨🇳 Mandarin
 
 ## 💻 Working on: Minishell
 
