@@ -2,16 +2,34 @@
 
 ### 🇨🇭 42 Lausanne student
 
-## 💼 Skills
-- C
-- Python
-- Lua
-- Bash
+### About Me  
+I'm a programming student currently studying at 42 Lausanne.  
 
-## 🌎 Languages
-🇬🇧 English  
-🇫🇷 French  
-🇨🇳 Mandarin
+### What I'm Learning  
+Through my studies, I've been diving into **C** and **C++**. I'm passionate about low-level development and love exploring new programming concepts and tools. I primarily work in **Windows** and **Linux**, with some experience in **MacOS**.  
+
+### What I Enjoy  
+In my free time, I enjoy:  
+- Working on **side projects**  
+- Playing **video games**  
+- Going **biking**
+- **Working out**
+
+I love building things and experimenting with new ideas whenever I get the chance.
+
+## 💼 Skills
+  <br>
+  <p>
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,debian,linux,windows" alt="Operating Systems">
+    <img src="https://skillicons.dev/icons?i=vscode,vim" alt="Tools">
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python" alt="programming">
+    <img src="https://skillicons.dev/icons?i=git,github" alt="github/git">
+    <img src="https://skillicons.dev/icons?i=lua" alt="Scripting">
+  </p>
+</div>
+<br>
 
 ## 💻 Working on: Minishell
 
@@ -37,6 +55,11 @@
 </div>
 
 <br/><br/> <!-- Adds extra space to separate sections -->
+
+## 🌎 Languages
+🇬🇧 English  
+🇫🇷 French  
+🇨🇳 Mandarin
 
 <details closed>
 <summary><h3>📊 Github Stats ✅</summary>
