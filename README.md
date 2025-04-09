@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Isaiah&fontAlign=80&fontAlignY=40&color=gradient&colors=#9b00ff,#00ff00)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Isaiah🍂&fontAlign=80&fontAlignY=50&color=gradient&colors=#9b00ff,#00ff00)
 
 ### 👋 About Me  
 I'm a 19-year-old programming student currently studying at **42 Lausanne**.  🇨🇭
