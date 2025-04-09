@@ -1,14 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Isaiah&fontAlign=80&fontAlignY=40&color=gradient&colors=#9b00ff,#00ff00)
 
-### 🇨🇭 42 Lausanne student
+### 👋 About Me  
+I'm a programming student currently studying at **42 Lausanne**.  🇨🇭
 
-### About Me  
-I'm a programming student currently studying at 42 Lausanne.  
-
-### What I'm Learning  
+### 📚 What I'm Learning  
 Through my studies, I've been diving into **C** and **C++**. I'm passionate about low-level development and love exploring new programming concepts and tools. I primarily work in **Windows** and **Linux**, with some experience in **MacOS**.  
 
-### What I Enjoy  
+### 🎮 What I Enjoy  
 In my free time, I enjoy:  
 - Working on **side projects**  
 - Playing **video games**  
@@ -20,7 +18,7 @@ I love building things and experimenting with new ideas whenever I get the chanc
 ## 💼 Skills
   <br>
   <p>
-    <img src="https://skillicons.dev/icons?i=kali,ubuntu,debian,linux,windows" alt="Operating Systems">
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,apple,windows" alt="Operating Systems">
     <img src="https://skillicons.dev/icons?i=vscode,vim" alt="Tools">
   </p>
   <p>
