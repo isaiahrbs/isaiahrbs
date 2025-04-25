@@ -29,7 +29,7 @@ I love building things and experimenting with new ideas whenever I get the chanc
 </div>
 <br>
 
-## 💻 Working on: Minishell
+## 💻 Working on: Philosophers
 
 <div align="center" style="display: flex;">
     <!-- Box for 42 Projects with Image -->
