@@ -19,12 +19,11 @@ I love building things and experimenting with new ideas whenever I get the chanc
   <br>
   <p>
     <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,apple,windows" alt="Operating Systems">
-    <img src="https://skillicons.dev/icons?i=vscode,vim" alt="Tools">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,github" alt="Tools">
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python" alt="programming">
-    <img src="https://skillicons.dev/icons?i=git,github" alt="github/git">
-    <img src="https://skillicons.dev/icons?i=lua" alt="Scripting">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,html,css,lua" alt="programming">
+    <img src="https://skillicons.dev/icons?i=git" alt="github/git">
   </p>
 </div>
 <br>
