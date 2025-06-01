@@ -56,7 +56,6 @@ I love building things and experimenting with new ideas whenever I get the chanc
 ## 🌎 Languages
 🇬🇧 English  
 🇫🇷 French  
-🇨🇳 Mandarin
 
 <details closed>
 <summary><h3>📊 Github Stats ✅</summary>
