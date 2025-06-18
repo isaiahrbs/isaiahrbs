@@ -8,9 +8,7 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
 
 ### 🎮 What I Enjoy  
 In my free time, I enjoy:  
-- Working on **side projects**  
 - Playing **video games**  
-- Going **biking**
 - **Working out**
 
 I love building things and experimenting with new ideas whenever I get the chance.
