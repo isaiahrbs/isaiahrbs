@@ -41,10 +41,8 @@ Building things and experimenting with new ideas whenever I get the chance
 
 <div align="center">
 
-### 💻 Programming & Scripting  
+### 💻 Skills 
 <img src="https://skillicons.dev/icons?i=c,cpp,bash,git,github,vscode" alt="Programming and Tools" />
-
-### 🖥️ Operating Systems  
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple" alt="Operating Systems" />
 
 </div>
