@@ -21,9 +21,9 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
 
 🎮 **What I Enjoy**  
 In my free time, I enjoy:  
-- Playing video games 🎮  
-- Working out 🏋️  
-- Building things and experimenting with new ideas whenever I get the chance  
+Playing video games 🎮  
+Working out 🏋️  
+Building things and experimenting with new ideas whenever I get the chance  
 
 💡 In **May 2025**, I participated in the **Hackathon at the University of St. Gallen**.  
 
