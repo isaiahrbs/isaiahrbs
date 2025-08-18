@@ -26,7 +26,7 @@ I love building things and experimenting with new ideas whenever I get the chanc
 </div>
 <br>
 
-## 💻 Working on: Cub3d
+## 💻 Working on: CPP
 
 <div align="center" style="display: flex;">
     <!-- Box for 42 Projects with Image -->
