@@ -51,7 +51,7 @@ Building things and experimenting with new ideas whenever I get the chance
 
 <br>
 
-## 📌 42 Projects  
+## 📌 42 Lausanne  
 
 <p align="center">
   <table style="width: 75%; margin-left: auto; margin-right: auto;">
