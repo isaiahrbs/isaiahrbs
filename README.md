@@ -68,13 +68,13 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
         	<a href="https://github.com/IsaiahRobinsonGit/42-Projects/tree/main"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Cursus.png" alt="42 Cursus" width="100%"></a>
         </td>
         <td align="center">
-        	<a href="ENTER HERE"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Piscine.png" alt="42 Piscine" width="100%"></a>
+        	<a href="https://github.com/isaiahrbs/42Piscine"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Piscine.png" alt="42 Piscine" width="100%"></a>
         </td>
         <td align="center">
-        	<a href="ENTER HERE"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Exams.png" alt="42 Exams" width="100%"></a>
+        	<a href="https://github.com/isaiahrbs/42Exams/tree/main"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Exams.png" alt="42 Exams" width="100%"></a>
       	</td>
 	  	<td align="center">
-        	<a href="ENTER HERE"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Specs.png" alt="42 Specs" width="100%"></a>
+        	<a href="https://github.com/isaiahrbs/42Specs"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Specs.png" alt="42 Specs" width="100%"></a>
 		</td>
     </tr>
   </table>
