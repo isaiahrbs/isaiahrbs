@@ -10,20 +10,14 @@
 
 <br>
 
-# Hello there 👋
+<h2 align="center">👋 Hello there</h2>
 
 <div align="center">
 
 I'm a **19-year-old programming student** currently studying at **42 Lausanne**. 🇨🇭  
 
 📚 **What I'm Learning**  
-Through my studies, I've been diving into **C** and **C++**. I'm passionate about low-level development and love exploring new programming concepts and tools. I primarily work in **Windows** and **Linux**, with some experience in **macOS**.  
-
-🎮 **What I Enjoy**  
-In my free time, I enjoy:  
-Playing video games 🎮  
-Working out 🏋️  
-Building things and experimenting with new ideas whenever I get the chance  
+Through my studies, I've been diving into **C** and **C++**. I'm passionate about low-level development and love exploring new programming concepts and tools. I primarily work in **Windows** and **Linux**, with some experience in **macOS**.   
 
 💡 In **May 2025**, I participated in the **Hackathon at the University of St. Gallen**.  
 
@@ -31,28 +25,44 @@ Building things and experimenting with new ideas whenever I get the chance
 
 <br>
 
+<div align="center">
+
 <p align="center">
 	<img src="./git_utils/binary.gif" alt="binary" width="60%">
 </p>
 
 <br>
 
-## 🛠️ Technologies & Tools  
+<h2 align="center">💻 Skills</h2>  
 
-<div align="center">
-
-### 💻 Skills 
-<img src="https://skillicons.dev/icons?i=c,cpp,bash,git,github,vscode" alt="Programming and Tools" />
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple" alt="Operating Systems" />
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Code & Tools</b></td>
+      <td align="center"><b>Operating Systems</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,bash,git,github,vscode" alt="Code and Tools"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple" alt="Operating Systems"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 </div>
 
 <br>
 
-## 📌 42 Lausanne  
-
 <p align="center">
-  <table style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 100%; margin-left: auto; margin-right: auto;">
+    <tr>
+      <td align="center" colspan="4">
+        <a href="https://42lausanne.ch/ecole-developpeur/"><img src="https://github.com/isaiahrbs/images/blob/main/Images/42Lausanne_Banner_withname.png" alt="42 Lausanne Banner" width="100%"></a>
+      </td>
+    </tr>
     <tr>
     	<td align="center">
         	<a href="https://github.com/IsaiahRobinsonGit/42-Projects/tree/main"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Cursus.png" alt="42 Cursus" width="100%"></a>
@@ -70,9 +80,15 @@ Building things and experimenting with new ideas whenever I get the chance
   </table>
 </p>
 
+<div align="center">
+
+<p align="center">
+	<img src="./git_utils/binary.gif" alt="binary" width="60%">
+</p>
+
 <br>
 
-## 📊 GitHub Stats ✅  
+<h2 align="center">📊 GitHub Stats ✅</h2>  
 
 <div align="center">
 
