@@ -5,14 +5,14 @@
 <br>
 
 <div align="center">
-<a href="ENTER HERE"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+<a href="https://profile-v3.intra.42.fr/users/irobinso"><img src="https://img.shields.io/static/v1?message=42Profile&logo=intra42&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
 <br>
 
-<h2 align="center">👋 Hello there</h2>
+<h2 align="left">👋 Hello there</h2>
 
-<div align="center">
+<div align="left">
 
 I'm a **19-year-old programming student** currently studying at **42 Lausanne**. 🇨🇭  
 
@@ -46,7 +46,7 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
         <img src="https://skillicons.dev/icons?i=c,cpp,bash,git,github,vscode" alt="Code and Tools"/>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple" alt="Operating Systems"/>
+        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,apple" alt="Operating Systems"/>
       </td>
     </tr>
   </table>
@@ -88,24 +88,17 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
 
 <br>
 
-<h2 align="center">📊 GitHub Stats ✅</h2>  
+<h2 align="center">📊 GitHub Stats</h2>  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahrbs&layout=compact&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isaiahrbs&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150"/>
+</p>
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahrbs&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=isaiahrbs&theme=transparent&hide_border=true" height="150"/>
+</p>
 
-</div>
-
-<div align="center">
-
-<!-- Smaller Stats Section -->
-<div style="max-width: 400px; margin: 20px auto; font-size: 12px;">
-	<img src="https://github-readme-stats.vercel.app/api?username=isaiahrbs&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaiahrbs&theme=transparent&hide_border=false"/>
-</div>
-
-</div>
-
-<!-- Contribution Graph -->
-<img alt="isaiahrbs Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=isaiahrbs&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+<p align="center">
+  <img alt="isaiahrbs Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=isaiahrbs&bg_color=ffffff00&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" width="90%"/>
+</p>
