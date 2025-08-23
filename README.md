@@ -56,11 +56,10 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
 
 <br>
 
-<!-- Projects Section -->
 <p align="center">
   <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
-      <td align="center" colspan="5">
+      <td align="center" colspan="4">
         <a href="https://42lausanne.ch/ecole-developpeur/"><img src="https://github.com/isaiahrbs/images/blob/main/Images/42Lausanne_Banner_withname.png" alt="42 Lausanne Banner" width="100%"></a>
       </td>
     </tr>
@@ -77,11 +76,6 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
 	  	<td align="center">
         	<a href="https://github.com/isaiahrbs/42Specs"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Specs.png" alt="42 Specs" width="100%"></a>
 		</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="5">
-        <a href="https://github.com/isaiahrbs?tab=repositories"><img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Personal_Banner.png" alt="Personal Projects Banner" width="100%"></a>
-      </td>
     </tr>
   </table>
 </p>
