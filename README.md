@@ -33,7 +33,7 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
 
 <br>
 
-<h2 align="center">💻 Skills</h2>  
+<h2 align="center">💻 My Skills & Experience in Following Technologies: </h2>  
 
 <p align="center">
   <table>
@@ -43,7 +43,7 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,bash,git,github,vscode" alt="Code and Tools"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,bash,git,github,vscode" alt="Code and Tools"/>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,apple" alt="Operating Systems"/>
