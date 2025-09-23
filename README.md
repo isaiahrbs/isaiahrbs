@@ -17,7 +17,7 @@
 I'm a **19-year-old programming student** currently studying at **42 Lausanne**. 🇨🇭  
 
 📚 **What I'm Learning**  
-Through my studies, I've been diving into **C** and **C++**. I'm passionate about low-level development and love exploring new programming concepts and tools. I primarily work in **Windows** and **Linux**, with some experience in **macOS**.   
+Through my studies, I've been diving into **C** and **C++**. I'm passionate about low-level development and love exploring new programming concepts and tools. I primarily work on **Windows** and **Linux**, with some experience in **macOS**.   
 
 💡 In **May 2025**, I participated in the **Hackathon at the University of St. Gallen**.  
 
@@ -95,9 +95,7 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
   <img src="https://github-readme-stats.vercel.app/api?username=isaiahrbs&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=isaiahrbs&theme=transparent&hide_border=true" height="150"/>
-</p>
+
 
 <p align="center">
   <img alt="isaiahrbs Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=isaiahrbs&bg_color=ffffff00&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" width="90%"/>
