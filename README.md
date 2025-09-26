@@ -1,27 +1,22 @@
-<p align="center">
-	<img src="https://github.com/isaiahrbs/images/blob/main/Images/Github_Header.jpg" alt="banner" style="width: 80%;">
+
+<div align="left" style="font-size:22px; line-height:1.6;">
+
+<h1>👋 Hi, I'm a <b>19-year-old programming student</b> currently studying at <b>42 Lausanne</b> 🇨🇭</h1>
+
+<h2>📚 What I'm Learning</h2>
+<p>
+Through my studies, I've been diving into <b>C</b> and <b>C++</b>.  
+I'm passionate about low-level development and love exploring new programming concepts and tools.  
+I primarily work on <b>Windows</b> and <b>Linux</b>, with some experience in <b>macOS</b>.  
 </p>
 
-<br>
-
-<div align="center">
-<a href="https://profile-v3.intra.42.fr/users/irobinso"><img src="https://img.shields.io/static/v1?message=42Profile&logo=intra42&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-</div>
-
-<br>
-
-<h2 align="left">👋 Hello there</h2>
-
-<div align="left">
-
-I'm a **19-year-old programming student** currently studying at **42 Lausanne**. 🇨🇭  
-
-📚 **What I'm Learning**  
-Through my studies, I've been diving into **C** and **C++**. I'm passionate about low-level development and love exploring new programming concepts and tools. I primarily work on **Windows** and **Linux**, with some experience in **macOS**.   
-
-💡 In **May 2025**, I participated in the **Hackathon at the University of St. Gallen**.  
+<h2>💡 Hackathon</h2>
+<p>
+In <b>May 2025</b>, I participated in the <b>Hackathon at the University of St. Gallen</b>.
+</p>
 
 </div>
+
 
 <br>
 
@@ -43,14 +38,15 @@ Through my studies, I've been diving into **C** and **C++**. I'm passionate abou
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,bash,git,github,vscode" alt="Code and Tools"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,bash,git,github,vscode" alt="Code and Tools" width="700"/>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,apple" alt="Operating Systems"/>
+        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,apple" alt="Operating Systems" width="350"/>
       </td>
     </tr>
   </table>
 </p>
+
 
 </div>
 
