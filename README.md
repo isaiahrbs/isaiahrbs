@@ -38,10 +38,10 @@ In <b>May 2025</b>, I participated in the <b>Hackathon at the University of St. 
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,bash,git,github,vscode" alt="Code and Tools" width="700"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,bash,git,github,vscode" alt="Code and Tools" width="800"/>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,apple" alt="Operating Systems" width="350"/>
+        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,apple" alt="Operating Systems" width="400"/>
       </td>
     </tr>
   </table>
