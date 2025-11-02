@@ -30,7 +30,6 @@ Here’s some of my work that best reflects my technical abilities and problem-s
 - 🧠 **Concepts used**: raycasting, bitwise operations, matrix logic, event-driven programming.
 - ⚙️ **Tech**: C, MinilibX, Linux (X11)
 - 🎯 **Goal**: Render textures and player movement in a 3D space without external game engines.
-- 💻 Demo: *(Add GIF or video link here if possible)*
 
 ---
 
