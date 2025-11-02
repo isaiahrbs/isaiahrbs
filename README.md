@@ -54,7 +54,7 @@ Here’s some of my work that best reflects my technical abilities and problem-s
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,git,github,vscode" width="400"/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,git,github,vscode" width="650"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,windows,apple" width="350"/>
