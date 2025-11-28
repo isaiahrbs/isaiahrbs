@@ -16,7 +16,7 @@
 - 💻 I specialize in **C** & **C++** with a strong foundation in low-level programming.
 - 🛠️ I love building software that’s efficient, scalable, and close to the hardware.
 - 🌱 Participated in the 2025 Hackathon at the University of St. Gallen.
-- 🧭 Always learning — whether it's multithreading, parsers, 3D engines, or Linux syscalls.
+- 🧭 Always learning.
 
 ---
 
